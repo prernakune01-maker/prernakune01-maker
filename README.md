@@ -7,7 +7,7 @@ Welcome to my GitHub space! I bridge the gap between business strategy and data-
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Final year BBA student specializing in Finance.
+- 🎓 **Education:** Persuing MBA in Business intelligence 
 - 📊 **What I Do:** Build interactive dashboards, optimize SQL queries, and perform statistical data analysis.
 - 📍 **Location:** Ahmedabad, India
 
